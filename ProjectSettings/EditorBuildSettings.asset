@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 6b423630445001f47b60c12cc0124b21
+  - enabled: 1
+    path: Assets/Scenes/Wolverine.unity
+    guid: 68e6852c01add854a91ba8b42d38f087
+  - enabled: 1
+    path: Assets/Scenes/Phoenix.unity
+    guid: d5a5c303154a0d3469c9adff5daae0e7
+  - enabled: 1
+    path: Assets/Scenes/Cyclops.unity
+    guid: d903b56619c5c4f45b7a9a93d7e533c0
+  m_configObjects:
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
